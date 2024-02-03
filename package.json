@@ -42,6 +42,6 @@
   },
   "devDependencies": {
     "@types/lodash": "^4.14.199",
-    "gh-pages": "^6.0.0"
+    "gh-pages": "^6.1.1"
   }
 }
