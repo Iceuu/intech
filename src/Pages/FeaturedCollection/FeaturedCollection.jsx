@@ -4,7 +4,7 @@ import Hexagon from "../images/hexagon.png"
 import logo from "../images/logo.jpg"
 import geometric from "../images/geometric.webp"
 import building from "../images/building.jpg"
-import green from "../images/green.webp"
+import green from "../images/blue.jpg"
 import vector from "../images/vector.jpg"
 import { IoIosStar } from "react-icons/io";
 import { IoIosStarHalf } from "react-icons/io";
